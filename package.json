@@ -10,7 +10,7 @@
   "scripts": {
     "build": "webpack --config ./webpack.config.js",
     "install-modules": "yarn",
-    "postinstall": "yarn build"
+    "postinstall": "yarn install && yarn build"
   },
   "keywords": [
     "summernote",
