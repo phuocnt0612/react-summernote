@@ -2,7 +2,7 @@
   "name": "react-summernote",
   "version": "2.0.0",
   "description": "Summernote (Super simple WYSIWYG editor) adaptation for react",
-  "main": "./src/Summernote.jsx",
+  "main": "./dist/react-summernote.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Vnkitaev/react-summernote.git"
