@@ -8,7 +8,7 @@
     "url": "https://github.com/Vnkitaev/react-summernote.git"
   },
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --config ./webpack.config.js",
     "install-modules": "yarn",
     "postinstall": "yarn build"
   },
