@@ -33,7 +33,6 @@
   "dependencies": {
     "codemirror": "^5.26.0",
     "prop-types": "^15.5.10",
-    "react-summernote": "https://github.com/phuocnt0612/react-summernote",
     "summernote": "^0.8.15"
   },
   "peerDependencies": {
