@@ -2,7 +2,7 @@
   "name": "react-summernote",
   "version": "2.0.0",
   "description": "Summernote (Super simple WYSIWYG editor) adaptation for react",
-  "main": "./dist/react-summernote.js",
+  "main": "./src/Summernote.jsx",
   "repository": {
     "type": "git",
     "url": "https://github.com/Vnkitaev/react-summernote.git"
@@ -32,6 +32,7 @@
   "dependencies": {
     "codemirror": "^5.26.0",
     "prop-types": "^15.5.10",
+    "react-summernote": "https://github.com/phuocnt0612/react-summernote",
     "summernote": "^0.8.15"
   },
   "peerDependencies": {
